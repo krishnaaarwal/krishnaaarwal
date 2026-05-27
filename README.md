@@ -1,4 +1,4 @@
-Hi there 👋 I'm Krishna Agarwal
+Hi there 👋
 
 I’m a Java developer passionate about building efficient, scalable applications and continuously improving my problem-solving skills. I worked on real-world projects and strengthened my development fundamentals.
 
@@ -25,6 +25,3 @@ Built multiple project-based solutions
 
 Actively contributing to personal projects and exploring open-source opportunities
 
-📫 **Get in touch**
-- Email: agrkrishna123@gmail.com
-- LinkedIn: https://www.linkedin.com/in/krishna-agarwal-9b2a06367
