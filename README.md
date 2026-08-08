@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f12,50:1a2744,100:cbf14c&height=200&section=header&text=Krishna%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Distributed%20Systems&descSize=15&descAlignY=62&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f12,50:1a2744,100:cbf14c&height=200&section=header&text=Krishna%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20Distributed%20Systems&descSize=15&descAlignY=62&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -52,7 +52,7 @@ public class Krishna {
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Redisson](https://img.shields.io/badge/Redisson_Distributed_Locks-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Redisson](https://img.shields.io/badge/Redisson_Locks-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Infrastructure & Storage**
 
@@ -71,9 +71,11 @@ public class Krishna {
 
 ## 🚀 Featured Project
 
-<a href="https://github.com/krishnaaarwal/Nexis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnaaarwal&repo=Nexis&theme=dark&bg_color=0d0f12&title_color=cbf14c&icon_color=cbf14c&text_color=94a3b8&border_color=1e3a5f&description_lines_count=3" />
-</a>
+### [Nexis — Real-Time Collaborative IDE](https://github.com/krishnaaarwal/Nexis)
+
+![Stars](https://img.shields.io/github/stars/krishnaaarwal/Nexis?style=flat-square&color=cbf14c&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/krishnaaarwal/Nexis?style=flat-square&color=94a3b8)
+![Top Language](https://img.shields.io/github/languages/top/krishnaaarwal/Nexis?style=flat-square&color=ED8B00)
 
 > 6 Spring Boot microservices · Operational Transform · Sandboxed Docker code execution · Session recording & playback · Kubernetes
 
@@ -83,15 +85,9 @@ public class Krishna {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnaaarwal&show_icons=true&theme=dark&bg_color=0d0f12&title_color=cbf14c&icon_color=cbf14c&text_color=94a3b8&border_color=1e3a5f&count_private=true&hide_border=false"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=krishnaaarwal&show_icons=true&theme=dark&bg_color=0d0f12&title_color=cbf14c&icon_color=cbf14c&text_color=94a3b8&border_color=1e3a5f"/>
 &nbsp;
 <img height="165" src="https://streak-stats.demolab.com/?user=krishnaaarwal&theme=dark&background=0d0f12&ring=cbf14c&fire=cbf14c&currStreakLabel=cbf14c&sideLabels=94a3b8&dates=94a3b8&border=1e3a5f"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaaarwal&layout=compact&theme=dark&bg_color=0d0f12&title_color=cbf14c&text_color=94a3b8&border_color=1e3a5f&langs_count=6"/>
 
 </div>
 
